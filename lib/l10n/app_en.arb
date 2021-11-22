@@ -1,0 +1,17 @@
+{
+  "title": "title",
+  "description": "description",
+  "date": "date",
+  "add_to_do": "add to do",
+  "tasks": "Tasks",
+  "settings": "Settings",
+  "add": "add",
+  "done": "done",
+  "delete": "delete",
+  "language": "language",
+  "theme": "theme",
+  "light": "light",
+  "dark": "dark"
+
+
+}
